@@ -1,6 +1,6 @@
 **Hey, Im Blaziumm**
 -
-Im a Python and Java developer (Learning JavaScript), FTC Programmer, VexIQ Captain and Mentor 
+Im a Python and Java developer (Learning JavaScript), FTC Head Programmer, VexIQ Captain and Mentor 
 
 [![My Skills](https://skillicons.dev/icons?i=java,ae,androidstudio,discord,docker,git,github,ps,py,raspberrypi,vscode)](https://skillicons.dev)
 
