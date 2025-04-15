@@ -1,4 +1,4 @@
-**Hey, I'm Evan**
+**👋 Hey, I'm Evan**
 -
 I'm a Python and Java developer, FTC Head Programmer and Robotics Mentor
 
